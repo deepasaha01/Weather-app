@@ -56,6 +56,9 @@ ul {
   cursor: pointer;
   text-decoration: underline;
 }
+.gitLink {
+  text-align: center;
+}
 
 #current {
   display: block;
